@@ -1,7 +1,7 @@
 <h1 align="center"> Hi👋, I'm Luca Sargenti </h1>
 
 <h3 align="center"> Senior Product Engineer — Fullstack (Angular, Node.js, AWS) · LLM, RAG & tool calling </h3>
-<img align="right" alt="top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaSarge4&layout=compact"/>
+<img align="right" alt="skills" width="360" src="./assets/skills.svg"/>
 
 <br>
 
@@ -11,7 +11,7 @@
 - 🛠️ 9+ years building software across web, mobile, backend and infra
 - 📍 Perugia, Italy · Open to new opportunities
 
-<br>
+<br clear="right">
 <br>
 <h2 align="center">In the section below there are some pinned projects that I worked on!</h2>
 
